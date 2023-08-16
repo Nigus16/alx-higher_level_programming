@@ -5,7 +5,7 @@
 # without using any loops
 #
 # (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
+# email nigustselassie@gmail.com
 # -----------------------------------------------------------
 
 
