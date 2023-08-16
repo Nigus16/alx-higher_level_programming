@@ -4,8 +4,8 @@
 # demonstrates how to replace all occurrences of an element by
 # another in a new list
 #
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
+# (C) 2023 Nigus Tekleselassie Jimma, Ethiopia
+# email nigustselassie@gmail.com
 # -----------------------------------------------------------
 
 

@@ -4,8 +4,8 @@
 # demonstrates how to add all unique integers in a list (only once
 # for each integer)
 #
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
+# (C) 2023 Nigus Tekleselassie Jimma, Ethiopia
+# email nigustselassie@gmail.com
 # -----------------------------------------------------------
 
 
